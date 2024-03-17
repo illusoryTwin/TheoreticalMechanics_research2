@@ -4,4 +4,4 @@ Theoretical mechanics course. Assembly measurements for Big Homework 2
 ### General idea: 
 Use encoders' data to measure positions of the cart and the pole.
 8206/360 degree
-12100/431 mm
+12100/428 mm
